@@ -1,6 +1,6 @@
 <img src="https://wollen.org/blog/wp-content/uploads/2021/04/hello_world_title3.gif" width="100%" style="border-radius: 5px;" />
 <h1 align="center">Hello world!</h1>
-<p align="center">from Mirjalolbek Umarov</p>
+<h2 align="center">from Mirjalolbek Umarov</h2>
 
 - 🔭 I'm working on **CR company** now.
 - 🌱 I’m learning **Django and Rust** now.
