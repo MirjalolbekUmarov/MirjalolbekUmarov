@@ -1,7 +1,7 @@
 <img src="https://wollen.org/blog/wp-content/uploads/2021/04/hello_world_title3.gif" width="100%" style="border-radius: 5px;" />
 <h1 align="center">Hello world!</h1>
 <h2 align="center">from Mirjalolbek Umarov</h2>
-[![wakatime](https://wakatime.com/badge/user/018cfde9-7484-4465-a3fe-891a3e2fe406/project/018d4171-269f-4019-85f3-1f2487b3680e.svg)](https://wakatime.com/badge/user/018cfde9-7484-4465-a3fe-891a3e2fe406/project/018d4171-269f-4019-85f3-1f2487b3680e)
+<a href="https://wakatime.com/badge/user/018cfde9-7484-4465-a3fe-891a3e2fe406/project/018d4171-269f-4019-85f3-1f2487b3680e"><img src="https://wakatime.com/badge/user/018cfde9-7484-4465-a3fe-891a3e2fe406/project/018d4171-269f-4019-85f3-1f2487b3680e.svg" alt="wakatime"></a>
 [![wakatime](https://wakatime.com/badge/user/018cfde9-7484-4465-a3fe-891a3e2fe406/project/018cfe03-c60d-4e8e-8e28-440bdd540f3b.svg)](https://wakatime.com/badge/user/018cfde9-7484-4465-a3fe-891a3e2fe406/project/018cfe03-c60d-4e8e-8e28-440bdd540f3b)
 
 - 🔭 I'm working on **CR company** now.
