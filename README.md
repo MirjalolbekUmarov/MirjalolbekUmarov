@@ -3,6 +3,8 @@
 <h3 align="center">the Full-Stack Developer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirjalolbekumarov&label=Profile%20views&color=0e75b6&style=flat" alt="mirjalolbekumarov" /> </p><a href="https://wakatime.com/badge/user/018cfde9-7484-4465-a3fe-891a3e2fe406/project/018cfe03-c60d-4e8e-8e28-440bdd540f3b"><img src="https://wakatime.com/badge/user/018cfde9-7484-4465-a3fe-891a3e2fe406/project/018cfe03-c60d-4e8e-8e28-440bdd540f3b.svg" alt="wakatime"></a>
+<figure><embed src="https://wakatime.com/share/@018cfde9-7484-4465-a3fe-891a3e2fe406/97039eba-c9c1-4c3f-956e-ec5498f937a9.svg"></embed></figure>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirjalolbekumarov" alt="mirjalolbekumarov" /></a> </p>
 
 - 🔭 I’m currently working on [MaxKey 1.26](https://maxkey.pythonanywhere.com/)
