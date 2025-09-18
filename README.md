@@ -12,9 +12,9 @@
 
 - 🤝 I’m looking for help with **UI/UX and design improvements.**
 
-- 👨‍💻 All of my projects are available at [https://mirjalolbekumarov.netlify.app/](https://mirjalolbekumarov.netlify.app/)
+- 👨‍💻 All of my projects are available at [My portfolio](https://mirjalolbekumarov.netlify.app/)
 
-- 📝 I regularly write articles on [https://mirjalolbek-umarov.medium.com/](https://mirjalolbek-umarov.medium.com/)
+- 📝 I regularly write articles on [My Medium Page](https://mirjalolbek-umarov.medium.com/)
 
 - 💬 Ask me about **Python, Engineering and Django.**
 
@@ -38,8 +38,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mirjalolbekumarov"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mirjalolbekumarov" /></a><a href="https://ko-fi.com/mirjalolbekumarov"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mirjalolbekumarov" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirjalolbekumarov&show_icons=true&locale=en&layout=compact" alt="mirjalolbekumarov" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirjalolbekumarov&show_icons=true&locale=en" alt="mirjalolbekumarov" /></p>
-
